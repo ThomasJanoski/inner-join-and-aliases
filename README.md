@@ -1,2 +1,2 @@
-# inner-join-and-aliases
-Repositório para atividade INNER JOIN E ALIASES
+# INNER JOIN e ALIASES
+Repositório para atividade **INNER JOIN E ALIASES**
